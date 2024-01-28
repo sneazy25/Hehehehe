@@ -1,5 +1,6 @@
 # Hehehehe
 
+```json
 // Isi variabel-token dan chatId sesuai dengan data Anda
 var token = '';
 var chatId = '';
@@ -29,3 +30,4 @@ function kirimGambar() {
 
 // Memulai pengiriman gambar
 kirimGambar();
+```
